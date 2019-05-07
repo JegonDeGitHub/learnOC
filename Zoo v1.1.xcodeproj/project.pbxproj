@@ -10,6 +10,8 @@
 		18DF274822816FD100D2D8A6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18DF274722816FD100D2D8A6 /* main.m */; };
 		18DF27502281700A00D2D8A6 /* Animal.m in Sources */ = {isa = PBXBuildFile; fileRef = 18DF274F2281700A00D2D8A6 /* Animal.m */; };
 		18DF27562281739300D2D8A6 /* Dog.m in Sources */ = {isa = PBXBuildFile; fileRef = 18DF27552281739300D2D8A6 /* Dog.m */; };
+		18DF27592281793900D2D8A6 /* Cat.m in Sources */ = {isa = PBXBuildFile; fileRef = 18DF27582281793900D2D8A6 /* Cat.m */; };
+		18DF275C22817C5D00D2D8A6 /* Bird.m in Sources */ = {isa = PBXBuildFile; fileRef = 18DF275B22817C5D00D2D8A6 /* Bird.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +33,10 @@
 		18DF274F2281700A00D2D8A6 /* Animal.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Animal.m; sourceTree = "<group>"; };
 		18DF27542281739300D2D8A6 /* Dog.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Dog.h; sourceTree = "<group>"; };
 		18DF27552281739300D2D8A6 /* Dog.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Dog.m; sourceTree = "<group>"; };
+		18DF27572281793900D2D8A6 /* Cat.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Cat.h; sourceTree = "<group>"; };
+		18DF27582281793900D2D8A6 /* Cat.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Cat.m; sourceTree = "<group>"; };
+		18DF275A22817C5D00D2D8A6 /* Bird.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Bird.h; sourceTree = "<group>"; };
+		18DF275B22817C5D00D2D8A6 /* Bird.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Bird.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +74,10 @@
 				18DF274F2281700A00D2D8A6 /* Animal.m */,
 				18DF27542281739300D2D8A6 /* Dog.h */,
 				18DF27552281739300D2D8A6 /* Dog.m */,
+				18DF27572281793900D2D8A6 /* Cat.h */,
+				18DF27582281793900D2D8A6 /* Cat.m */,
+				18DF275A22817C5D00D2D8A6 /* Bird.h */,
+				18DF275B22817C5D00D2D8A6 /* Bird.m */,
 			);
 			path = "Zoo v1.1";
 			sourceTree = "<group>";
@@ -129,6 +139,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18DF275C22817C5D00D2D8A6 /* Bird.m in Sources */,
+				18DF27592281793900D2D8A6 /* Cat.m in Sources */,
 				18DF27562281739300D2D8A6 /* Dog.m in Sources */,
 				18DF274822816FD100D2D8A6 /* main.m in Sources */,
 				18DF27502281700A00D2D8A6 /* Animal.m in Sources */,
